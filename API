@@ -1,0 +1,39 @@
+const coffeeData = [
+  {
+    id: '1',
+    nama: 'Caffe Latte',
+    deskripsiSingkat: 'Kopi latte ini mempunyai cita rasa yang penuh dengan biji kopi espresso dengan campuran susu yang membuat rasanya menjadi creamy..',
+    deskripsiLengkap: 'Kopi latte ini mempunyai cita rasa yang penuh dengan biji kopi espresso dengan campuran susu yang membuat rasanya menjadi creamy..',
+    foto: 'https://upload.wikimedia.org/wikipedia/commons/c/c6/Latte_art_3.jpg'
+  },
+  {
+    id: '2',
+    nama: 'Cappuccino',
+    deskripsiSingkat: 'Kopi Espresso dengan campuran susu, ditambah toping creamer dengan foam yang lezat....',
+    deskripsiLengkap: 'Kopi Espresso dengan campuran susu, ditambah toping creamer dengan foam yang lezat.',
+    foto: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg'
+  },
+  {
+    id: '3',
+    nama: 'Caffe Mocha',
+    deskripsiSingkat: 'Kopi Arabika dengan perpaduan rasa yang manis dari rasa mocha dan campuran susu yang menyatu dengan whipped cream',
+    deskripsiLengkap: 'Kopi Arabika dengan perpaduan rasa yang manis dari rasa mocha dan campuran susu yang menyatu dengan whipped cream',
+    foto: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_coffee.jpg'
+  },
+  {
+    id: '4',
+    nama: 'Caramel Macchiato',
+    deskripsiSingkat: 'Kopi Espresso yang dikombinasikan dengan vanila, susu dan diselesaikan dengan rasa yang mantap dari caramel...',
+    deskripsiLengkap: 'Kopi Espresso yang dikombinasikan dengan vanila, susu dan diselesaikan dengan rasa yang mantap dari caramel...',
+    foto: 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg'
+  },
+  {
+    id: '5',
+    nama: 'Vanilla Sweet Cream Cold Brew',
+    deskripsiSingkat: 'Kopi arabica yang manis dengan campuran cream yang membuat citarasanya semakin creamy...',
+    deskripsiLengkap: 'Kopi arabica yang manis dengan campuran cream yang membuat citarasanya semakin creamy...',
+    foto: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_coffee.jpg'
+  }
+];
+
+export default coffeeData;
